@@ -1,0 +1,10 @@
+/Users/cassidygatewood/dev/RiderProjects/Projects/SimpleWebScraper.Test.Unit/bin/Debug/SimpleWebScraper.Test.Unit.dll
+/Users/cassidygatewood/dev/RiderProjects/Projects/SimpleWebScraper.Test.Unit/bin/Debug/SimpleWebScraper.Test.Unit.pdb
+/Users/cassidygatewood/dev/RiderProjects/Projects/SimpleWebScraper.Test.Unit/bin/Debug/nunit.framework.dll
+/Users/cassidygatewood/dev/RiderProjects/Projects/SimpleWebScraper.Test.Unit/bin/Debug/SimpleWebScraper.exe
+/Users/cassidygatewood/dev/RiderProjects/Projects/SimpleWebScraper.Test.Unit/bin/Debug/SimpleWebScraper.pdb
+/Users/cassidygatewood/dev/RiderProjects/Projects/SimpleWebScraper.Test.Unit/bin/Debug/nunit.framework.xml
+/Users/cassidygatewood/dev/RiderProjects/Projects/SimpleWebScraper.Test.Unit/obj/Debug/SimpleWebScraper.Test.Unit.csprojAssemblyReference.cache
+/Users/cassidygatewood/dev/RiderProjects/Projects/SimpleWebScraper.Test.Unit/obj/Debug/SimpleWebScraper.Test.Unit.csproj.CopyComplete
+/Users/cassidygatewood/dev/RiderProjects/Projects/SimpleWebScraper.Test.Unit/obj/Debug/SimpleWebScraper.Test.Unit.dll
+/Users/cassidygatewood/dev/RiderProjects/Projects/SimpleWebScraper.Test.Unit/obj/Debug/SimpleWebScraper.Test.Unit.pdb

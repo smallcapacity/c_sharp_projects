@@ -1,0 +1,46 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SimpleCalculator", "SimpleCalculator\SimpleCalculator.csproj", "{E4FC858A-579F-4FA1-9DB8-33D7C5DFA824}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SimpleCalculator.Test.Unit", "SimpleCalculator.Test.Unit\SimpleCalculator.Test.Unit.csproj", "{8BB691D6-33BC-4624-9510-0DB62DA77539}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WordUnscrambler", "WordUnscrambler\WordUnscrambler.csproj", "{175C6497-9754-478C-B890-53AE45D444CE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WordUnscrambler.Test.Unit", "WordUnscrambler.Test.Unit\WordUnscrambler.Test.Unit.csproj", "{72BF43A4-C352-4585-9552-7EA4863B99B9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SimpleWebScraper.Test.Unit", "SimpleWebScraper.Test.Unit\SimpleWebScraper.Test.Unit.csproj", "{F4538497-4C91-4475-887C-451AA04A640E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SimpleWebScraper", "SimpleWebScraper\SimpleWebScraper.csproj", "{116E9982-7D64-4DA5-89F0-02BD095A29D5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E4FC858A-579F-4FA1-9DB8-33D7C5DFA824}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E4FC858A-579F-4FA1-9DB8-33D7C5DFA824}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E4FC858A-579F-4FA1-9DB8-33D7C5DFA824}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E4FC858A-579F-4FA1-9DB8-33D7C5DFA824}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8BB691D6-33BC-4624-9510-0DB62DA77539}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8BB691D6-33BC-4624-9510-0DB62DA77539}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8BB691D6-33BC-4624-9510-0DB62DA77539}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8BB691D6-33BC-4624-9510-0DB62DA77539}.Release|Any CPU.Build.0 = Release|Any CPU
+		{175C6497-9754-478C-B890-53AE45D444CE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{175C6497-9754-478C-B890-53AE45D444CE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{175C6497-9754-478C-B890-53AE45D444CE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{175C6497-9754-478C-B890-53AE45D444CE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{72BF43A4-C352-4585-9552-7EA4863B99B9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{72BF43A4-C352-4585-9552-7EA4863B99B9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{72BF43A4-C352-4585-9552-7EA4863B99B9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{72BF43A4-C352-4585-9552-7EA4863B99B9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F4538497-4C91-4475-887C-451AA04A640E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F4538497-4C91-4475-887C-451AA04A640E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F4538497-4C91-4475-887C-451AA04A640E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F4538497-4C91-4475-887C-451AA04A640E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{116E9982-7D64-4DA5-89F0-02BD095A29D5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{116E9982-7D64-4DA5-89F0-02BD095A29D5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{116E9982-7D64-4DA5-89F0-02BD095A29D5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{116E9982-7D64-4DA5-89F0-02BD095A29D5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,11 @@
+/Users/cassidygatewood/dev/RiderProjects/SimpleCalculator/WordUnscrambler/bin/Debug/netcoreapp3.1/WordUnscrambler
+/Users/cassidygatewood/dev/RiderProjects/SimpleCalculator/WordUnscrambler/bin/Debug/netcoreapp3.1/WordUnscrambler.deps.json
+/Users/cassidygatewood/dev/RiderProjects/SimpleCalculator/WordUnscrambler/bin/Debug/netcoreapp3.1/WordUnscrambler.runtimeconfig.json
+/Users/cassidygatewood/dev/RiderProjects/SimpleCalculator/WordUnscrambler/bin/Debug/netcoreapp3.1/WordUnscrambler.runtimeconfig.dev.json
+/Users/cassidygatewood/dev/RiderProjects/SimpleCalculator/WordUnscrambler/bin/Debug/netcoreapp3.1/WordUnscrambler.dll
+/Users/cassidygatewood/dev/RiderProjects/SimpleCalculator/WordUnscrambler/bin/Debug/netcoreapp3.1/WordUnscrambler.pdb
+/Users/cassidygatewood/dev/RiderProjects/SimpleCalculator/WordUnscrambler/obj/Debug/netcoreapp3.1/WordUnscrambler.csprojAssemblyReference.cache
+/Users/cassidygatewood/dev/RiderProjects/SimpleCalculator/WordUnscrambler/obj/Debug/netcoreapp3.1/WordUnscrambler.AssemblyInfoInputs.cache
+/Users/cassidygatewood/dev/RiderProjects/SimpleCalculator/WordUnscrambler/obj/Debug/netcoreapp3.1/WordUnscrambler.AssemblyInfo.cs
+/Users/cassidygatewood/dev/RiderProjects/SimpleCalculator/WordUnscrambler/obj/Debug/netcoreapp3.1/WordUnscrambler.dll
+/Users/cassidygatewood/dev/RiderProjects/SimpleCalculator/WordUnscrambler/obj/Debug/netcoreapp3.1/WordUnscrambler.pdb

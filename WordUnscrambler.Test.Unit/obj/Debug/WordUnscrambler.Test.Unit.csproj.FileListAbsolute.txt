@@ -1,0 +1,8 @@
+/Users/cassidygatewood/dev/RiderProjects/Projects/WordUnscrambler.Test.Unit/bin/Debug/WordUnscrambler.Test.Unit.dll
+/Users/cassidygatewood/dev/RiderProjects/Projects/WordUnscrambler.Test.Unit/bin/Debug/WordUnscrambler.Test.Unit.pdb
+/Users/cassidygatewood/dev/RiderProjects/Projects/WordUnscrambler.Test.Unit/bin/Debug/nunit.framework.dll
+/Users/cassidygatewood/dev/RiderProjects/Projects/WordUnscrambler.Test.Unit/bin/Debug/nunit.framework.xml
+/Users/cassidygatewood/dev/RiderProjects/Projects/WordUnscrambler.Test.Unit/obj/Debug/WordUnscrambler.Test.Unit.csprojAssemblyReference.cache
+/Users/cassidygatewood/dev/RiderProjects/Projects/WordUnscrambler.Test.Unit/obj/Debug/WordUnscrambler.Test.Unit.csproj.CopyComplete
+/Users/cassidygatewood/dev/RiderProjects/Projects/WordUnscrambler.Test.Unit/obj/Debug/WordUnscrambler.Test.Unit.dll
+/Users/cassidygatewood/dev/RiderProjects/Projects/WordUnscrambler.Test.Unit/obj/Debug/WordUnscrambler.Test.Unit.pdb

@@ -1,0 +1,10 @@
+/Users/cassidygatewood/dev/RiderProjects/SimpleCalculator/SimpleCalculator/bin/Debug/SimpleCalculator.exe
+/Users/cassidygatewood/dev/RiderProjects/SimpleCalculator/SimpleCalculator/bin/Debug/SimpleCalculator.pdb
+/Users/cassidygatewood/dev/RiderProjects/SimpleCalculator/SimpleCalculator/obj/Debug/SimpleCalculator.csprojAssemblyReference.cache
+/Users/cassidygatewood/dev/RiderProjects/SimpleCalculator/SimpleCalculator/obj/Debug/SimpleCalculator.exe
+/Users/cassidygatewood/dev/RiderProjects/SimpleCalculator/SimpleCalculator/obj/Debug/SimpleCalculator.pdb
+/Users/cassidygatewood/dev/RiderProjects/Projects/SimpleCalculator/bin/Debug/SimpleCalculator.exe
+/Users/cassidygatewood/dev/RiderProjects/Projects/SimpleCalculator/bin/Debug/SimpleCalculator.pdb
+/Users/cassidygatewood/dev/RiderProjects/Projects/SimpleCalculator/obj/Debug/SimpleCalculator.csprojAssemblyReference.cache
+/Users/cassidygatewood/dev/RiderProjects/Projects/SimpleCalculator/obj/Debug/SimpleCalculator.exe
+/Users/cassidygatewood/dev/RiderProjects/Projects/SimpleCalculator/obj/Debug/SimpleCalculator.pdb

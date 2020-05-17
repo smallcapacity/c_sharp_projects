@@ -1,0 +1,5 @@
+/Users/cassidygatewood/dev/RiderProjects/Projects/SimpleWebScraper/bin/Debug/SimpleWebScraper.exe
+/Users/cassidygatewood/dev/RiderProjects/Projects/SimpleWebScraper/bin/Debug/SimpleWebScraper.pdb
+/Users/cassidygatewood/dev/RiderProjects/Projects/SimpleWebScraper/obj/Debug/SimpleWebScraper.csprojAssemblyReference.cache
+/Users/cassidygatewood/dev/RiderProjects/Projects/SimpleWebScraper/obj/Debug/SimpleWebScraper.exe
+/Users/cassidygatewood/dev/RiderProjects/Projects/SimpleWebScraper/obj/Debug/SimpleWebScraper.pdb
